@@ -11,6 +11,7 @@ stringcase = "*"
 pylint = "*"
 mamba = "*"
 expects = "*"
+redis = "*"
 
 [requires]
 python_version = "3.7"
