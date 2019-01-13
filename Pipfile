@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 kafka-python = "*"
+stringcase = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.7"
