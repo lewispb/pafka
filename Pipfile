@@ -9,6 +9,8 @@ verify_ssl = true
 kafka-python = "*"
 stringcase = "*"
 pylint = "*"
+mamba = "*"
+expects = "*"
 
 [requires]
 python_version = "3.7"

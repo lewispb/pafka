@@ -5,3 +5,4 @@ class PostedComment:
     def run(self):
         print("Handled by PostedComment")
         print(self.msg)
+        return 'OK'
